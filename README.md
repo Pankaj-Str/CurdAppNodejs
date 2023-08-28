@@ -6,15 +6,21 @@
 ```yml
 Step 1: Create Node js Application for Node js CRUD example
 
-Step 2: Install Prerequisite for node js
+Step 2: Install Embedded JavaScript templates (ejs)
 
-Step 3: Create Database, Table, and Connection for node js CRUD example with MySQL
+Step 3: Install express.js in App
 
-Step 4: Create CRUD Routes
+Step 4: Install Dependency
 
-Step 5: Crete View Files for CRUD example in node.js
+Step 5: Create Database and Table for node js crud example with mysql
 
-Step 6: Run the index.js file
+Step 6: Make Routes
+
+Step 7: Create View Files for crud xample in node.js
+
+Step 8: Create index.js File
+
+Step 9: Run the index.js file
 ```
 
 Node.js is an open-source, cross-platform runtime environment for developing server-side and networking applications. You should have a basic understanding of node js.
