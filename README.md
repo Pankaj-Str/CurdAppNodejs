@@ -1,4 +1,4 @@
-# CurdApp Nodejs - p4n.in
+# CurdApp Nodejs
 
 # Node.js Express CRUD - With MySQL
 
