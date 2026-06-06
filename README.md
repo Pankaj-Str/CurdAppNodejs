@@ -75,7 +75,7 @@ npm install express-session --save
 npm install method-override --save
 
 # driver to connect Node.js with MySQL:
-npm install mysql --save
+npm install mysql2 --save
 ```
 
 ## Step 5: Create Database and Table for node js crud example with mysql
